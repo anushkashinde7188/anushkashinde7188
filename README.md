@@ -1,5 +1,3 @@
-# 💫 About Me:
-🎓 MCA Student at **KK Wagh Institute, Nashik**  <br>💻 Passionate about **MERN Stack | Cloud Computing | DevOps |   <br>🚀 Exploring **open-source contributions** and building impactful projects  <br>🌱 Always eager to learn, share, and grow with the tech community  
 
 
 ## 🌐 Socials:
